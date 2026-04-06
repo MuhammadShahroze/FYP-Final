@@ -1,0 +1,37 @@
+Logged in as a student:
+When in user profile, I try to save any university's post, it doesn't save (Solved)
+In dashboard, while updating programs, it doesn't store date and semester fee and application process. (Solved)
+It doesn't show all details of University on Universities card.(Solved)
+When I applied to any University, it saves its data but doesn't show any details on that card. (Solved)
+It doesn't save Date of Birth of student. (Solved)
+Alerts on student Dashboard has some issues. (Solved)
+AI Chatbot in dashboard can be connect with Button on right bottom.
+In my application, when I got accepted by any university, Download admission letter is not working.
+
+General Suggestions:
+Programs and Scholarships in navbar have same links (very easy to update)
+Footer Links are not updated. (very easy to update)
+When you forgot password, it doesn't send reset link. (Solved)(Whole auth func. is implemented)
+
+Logged in as University:
+In application, it doesn't show in which program student applied for. (Solved)
+Graph is not dynamic on dashboard.
+When I accept a student, in Programs, it doesn't shows that one student is accepted (Solved)
+
+
+Logged in as Organization:
+When I logged in as Org and try to create a Scholarships, it doesn't create. (Solved)
+
+Logged in as an Admin:
+Subscriptions, Users, Institutions are not dynamic. (Solved)
+
+Backend:
+cd server
+npm install
+node server.js
+
+Front-end:
+cd c:\Users\Afzal\Downloads\global-study-navigator-main\global-study-navigator-main
+npm install
+npm run dev
+

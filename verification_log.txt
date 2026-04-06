@@ -1,0 +1,6 @@
+--- Starting Verification Flow ---
+
+1. Registering a student...
+
+Verification failed!
+Error: 
